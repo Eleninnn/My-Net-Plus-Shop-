@@ -1,4 +1,4 @@
-# My-Net-Plus-Shop-
+# My-SMP-Plus-Shop-
 :fire: Guide For The Plus Shop :fire:
 
 The Plus Shop is a shop that takes Playerpoints :coin: as a currency to buy netherite tools and armors, 
@@ -53,9 +53,9 @@ And the Netherite Tools are Vannila Tools that are maxed out to the Vannila limi
 
 Keeps the server balanced with the 24 hour limit with the Plus Tools.
 
-[My-Net Website](https://www.my-net.asia)
+[My-SMP Website Click me](https://www.my-net.asia)
 
-[My-Net Official FAQ](https://my-net.asia/faq)
+[My-SMP Official FAQ Click me](https://my-net.asia/faq)
 
-[My-Net Discord Server](https://discord.my-net.asia)
+[My-SMP Discord Server Click me](https://discord.my-net.asia)
 
